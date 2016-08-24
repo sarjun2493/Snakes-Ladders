@@ -7,7 +7,10 @@ http://www.pygame.org/download.shtml
 
 <b> What's in here? </b>  
 Just press Enter or Left click on the <i>Roll it</i> button to see the next step in the simulation.  
-Red lines depict ladders, while blue lines depict the snakes  
+Red lines depict ladders, while blue lines depict the snakes    
+
+<b> Execution </b>  
+python game.py  
 
 <b> TODO </b>  
 A proper entry and game over sequence.  
